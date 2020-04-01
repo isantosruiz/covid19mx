@@ -31,3 +31,4 @@ Fecha,Confirmados,Decesos
 28-Mar-2020,848,16
 29-Mar-2020,993,20
 30-Mar-2020,1094,28
+31-Mar-2020,1215,29
