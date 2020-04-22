@@ -52,3 +52,4 @@ Fecha,Confirmados,Decesos,Recuperados
 18-Apr-2020,7497,650,206
 19-Apr-2020,8261,686,213
 20-Apr-2020,8772,712,000
+21-Apr-2020,9501,857,000
